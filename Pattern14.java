@@ -1,6 +1,6 @@
 package StarPattern;
 
-public class fourteenth {
+public class Pattern14 {
     public static void main(String [] args) {
         int n = 7; // You can change n for a bigger or smaller cross
         for (int i = 1; i <= n; i++) {

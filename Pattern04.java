@@ -1,6 +1,6 @@
 package StarPattern;
 
-public class forthPattern {
+public class Pattern04 {
     public static void main(String[] args) {
         int n = 4; // Number of rows
         for(int i = 1; i <= n; i++) {
