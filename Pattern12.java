@@ -1,3 +1,11 @@
+/*
+    Draw the following pattern
+    *        *
+     *      *
+      *    *
+       *  *
+        *
+*/
 package StarPattern;
 
 public class Pattern12 {
